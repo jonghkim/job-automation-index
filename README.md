@@ -15,7 +15,9 @@ Firstly, we introduced a data-driven approach to reveal the latent task types in
 
 ![race_with_the_machine](img/race_with_the_machine.png)
 
-Based on our analysis, we provide this online system to encourage further research and policy discussions on the societal challenge of automation and the future of work. This tool provides the task-level susceptibility to automation of each occupation. Given that not all automation technologies are created equal, the task-level decomposition of automation levels allows to look into the types of tasks that contribute to the degree of automation of each occupation. This system consists of four functions:
+Based on our analysis, we provide this online system to encourage further research and policy discussions on the societal challenge of automation and the future of work. This tool provides the task-level susceptibility to automation of each occupation. Given that not all technical advances put occupations at risk, the task-level decomposition of automation level allows us to evaluate an occupation’s susceptibility to automation according to different dimensions of the impact of automation technology. 
+
+This system consists of four functions:
 
 #### (1) [Automation Index](http://jobautomation.pythonanywhere.com/automation_index/)
   - Provide basic information and task-level susceptibility to automation for each occupation in 2008 and 2018
