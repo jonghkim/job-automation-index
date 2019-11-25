@@ -134,9 +134,9 @@ class JobAutomationIndex():
             if self.save_two_mode_job_skill_network ==True:
                 nx.write_gexf(skill_network,os.path.join(self.path,self.result_path,target_year,"twomode_"+target_year+".gexf"))
             
-        #Job node - target
+        # Job node - target
         skill_network_job_node = set(n for n,d in skill_network.nodes(data=True) if d['bipartite']==0)
-        #Skill node - target
+        # Skill node - target
         skill_network_skill_node = set(skill_network) - skill_network_job_node
 
         return skill_network_targets, skill_network_job_node, skill_network_skill_node

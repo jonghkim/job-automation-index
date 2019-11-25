@@ -71,7 +71,7 @@ def node_centrality(focal_node, network, skill_id_name_dict, year, partition=Non
     mst,partition = mst_with_partition(distance_network, partition)
     weight_mst = mst.copy()
     
-    # centralities
+    # get weight for mst 
     for u,v,d in weight_mst.edges(data=True):
         d['weight']= distance_reverse(d)
 
@@ -140,7 +140,7 @@ def group_centrality(focal_node, original_network, network, extra_network, year,
     distance_network.remove_node(focal_node)
     network.remove_node(focal_node)
     
-    # MST
+    # mst
     mst_network,partition = mst_with_partition(distance_network,partition)
     mst_weight_network = mst_network.copy()
 
@@ -226,30 +226,30 @@ def to_table(path, graph):
 
     graph = _strip_list_attributes(graph)
 
-    # Edge list.
+    # edge list
     with open(path + "_edges.csv", "wb") as f:
         edges = graph.edges(data=True)
         writer = csv.writer(f, delimiter=',')
         
-        # Header.
+        # header
         writer.writerow(['source','target'] + [ k for k in edges[0][2].keys()])
         
-        # Values.
+        # values
         for e in edges:
             writer.writerow([ e[0], e[1]] + [ v for v in e[2].values()])
             
-    # Node attributes.
+    # node attributes
     nodear = []
     with open(path + "_nodes.csv", "wb") as f:
         nodes = graph.nodes(data=True)
         writer = csv.writer(f, delimiter=',')
         
-        # Header.
+        # header
         nodear.append(['node'] + [ k for k in nodes[0][1].keys()])
         writer.writerow(['node'] + [ k for k in nodes[0][1].keys()])
         
         
-        # Values.
+        # values
         for n in nodes:
             nodear.append([ n[0] ] + [v for v in n[1].values()])
             writer.writerow([ n[0] ] + [v for v in n[1].values()])
