@@ -3,7 +3,7 @@ Anxiety about automation is prevalent in this era of rapid technological advance
 
 ## Link
 - Working Paper [[Paper]()]
-- Job Automation Index System [[Homepage](http://jobautomation.pythonanywhere.com/)]
+- Job Automation Index System [[Homepage](http://www.jobautomationindex.com/)]
 - Contact
     - Jiyong Park, Bryan School of Business and Economics, University of North Carolina at Greensboro [[Link](http://jiyong-park.github.io/)]
     - Jongho Kim, College of Business, Korea Advanced Institute of Science and Technology [[Link](http://jonghkim.github.io/)]
@@ -19,13 +19,13 @@ Based on our analysis, we provide this online system to encourage further resear
 
 This system consists of four functions:
 
-#### (1) [Automation Index](http://jobautomation.pythonanywhere.com/automation_index/)
+#### (1) [Automation Index](http://www.jobautomationindex.com/automation_index/)
   - Provide basic information and task-level susceptibility to automation for each occupation in 2008 and 2018
-#### (2) [Automation Ranking](http://jobautomation.pythonanywhere.com/automation_ranking/)
+#### (2) [Automation Ranking](http://www.jobautomationindex.com/automation_ranking/)
   - Sort all occupations by the relationship to automation technology in 2008 and 2018
-#### (3) [Task Level Automation](http://jobautomation.pythonanywhere.com/task_level_automation/)
+#### (3) [Task Level Automation](http://www.jobautomationindex.com/task_level_automation/)
   - Sort all occupations by task-level susceptibility to automation in 2008 and 2018
-#### (4) [Skill Map](http://jobautomation.pythonanywhere.com/skill_map/)
+#### (4) [Skill Map](http://www.jobautomationindex.com/skill_map/)
   - Visualize the importance of tasks (skill clusters) and task-level susceptibility to automation for each occupation in 2008 and 2018.
 
 The entire source code is publicly accessible to encourage reproducibility at [Github Link](https://github.com/jonghkim/job-automation-index). Please see our research paper for detailed descriptions behind the job automation index.
