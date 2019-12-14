@@ -42,3 +42,6 @@ We hope our research and this online system can encourage further research and p
 - Python 2.7
 - pip install -r requirements.txt
 - python job_automation_index.py
+
+## Acknowledgement
+The following MIT-licensed code, created by Frank Elavsky, was used to create interactive visualization for the map of automation. [Link](https://github.com/nuitrcs/kellogg_insight_city_automation)
