@@ -28,7 +28,7 @@ This system consists of six functions, the first four of which are at occupation
 #### (3) [Task-Level Automation](http://www.jobautomationindex.com/task_level_automation/)
   - Sort all occupations by task-level susceptibility to automation during 2008-2018
 #### (4) [Skill DNA of a Job](http://www.jobautomationindex.com/skill_map/)
-  - Visualize an occupation’s skill requirements and skill-level susceptibility to automation during 2008-2018 (most granular-level decomposition)
+  - Visualize an occupation’s skill requirements and skill-level susceptibility to automation during 2008-2018
 #### (5) [Map of Automation (U.S. Cities)](http://www.jobautomationindex.com/map_automation/)
   - Visualize a city’s relations to automation in the United States during 2008-2018
 #### (6) [City-Level Automation](http://www.jobautomationindex.com/city_level_automation/)
