@@ -19,7 +19,7 @@ First, we identify four task types that are associated with the reduction in lab
 
 Based on our analysis, we provide this online system to encourage further research and policy discussions on the societal challenge of automation and the future of work. This tool provides the task-level susceptibility to automation across occupations and cities in the United States. The task-level decomposition of automation level will provide a more granular understanding of how technical advances and automation affect occupations and our communities.
 
-This system consists of six functions, the first four of which are at occupation level and the last two at city level:
+This system consists of five functions, the first three of which are at occupation level and the last two at city level:
 
 #### (1) [Job Automation Index](http://www.jobautomationindex.com/automation_index/)
   - Visualize an occupation’s relations to automation during 2008-2018
