@@ -15,6 +15,12 @@ For a data-driven exploration of the race between human tasks (man) and automati
 
 ![task_taxanomy](img/task_taxanomy_v4.jpg)
 
+- **Race with the Machine**: Tasks that have experienced in the increase in degree of automation but complemented labor demands during 2008-2018
+- **Race against the Machine**: Tasks that have experienced in the increase in degree of automation and substituted labor demands during 2008-2018
+- **Race ahead of the Machine**: Tasks that have experienced in the decrease in degree of automation and complemented labor demands during 2008-2018
+- **Running a Different Race**: Tasks that are seemingly unrelated to labor demands during 2008-2018, regardless of changes in degree of automation
+- **Changing the Course of a Race**: Tasks that have experienced in the decrease in degree of automation but substituted labor demands during 2008-2018
+
 Based on our analysis, we provide this online system to encourage further research and policy discussions on the societal challenge of automation and the future of work. This tool provides the task-level susceptibility to automation across occupations and cities in the United States. The task-level decomposition of automation level will provide a more granular understanding of how technical advances and automation affect occupations and our communities.
 
 This system consists of five functions, the first three of which are at occupation level and the last two at city level:
