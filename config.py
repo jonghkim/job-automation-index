@@ -12,14 +12,17 @@ def get_parameter():
         'education_data_nm':'Education_Data.xlsx',
 
         # target years
-        'target_year_list':[2008, 2018],
-
-        # set drop node & occupation
-        'drop_node_list':["2.D.1", "3.A.1", "3.A.2", "3.A.3"],
-        'drop_occupation_list':['19-1020','45-3021'],
+        'target_year_list':[2008, 2019],
 
         # degree of automation node
         'focal_node':"4.C.3.b.2",
+
+        # set drop node & occupation
+        # node for Degree of Automation, 
+        #          Required Level of Autoamtion, Related Work Experience
+        #          On-Site or In-Plant Training, On-the-Job Training
+        'drop_node_list':["4.C.3.b.2", "2.D.1", "3.A.1", "3.A.2", "3.A.3"], 
+        'drop_occupation_list':['19-1020','45-3021'],
 
         # save results
         'save_job_list': True,

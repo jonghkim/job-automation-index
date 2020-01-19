@@ -23,13 +23,14 @@ class JobAutomationIndex():
 
         self.target_year_list = params.get('target_year_list')        
 
-        # set drop node & occupation
-        self.drop_node_list = params.get('drop_node_list')
-        self.drop_occupation_list = params.get('drop_occupation_list')
-
         # degree of automation node
         self.focal_node = params.get('focal_node')
         
+        # set drop node & occupation
+        self.drop_node_list = params.get('drop_node_list')
+        self.drop_node_list.remove(self.focal_node)
+        self.drop_occupation_list = params.get('drop_occupation_list')
+
         # save results
         self.save_job_list = params.get('save_job_list')
         self.save_two_mode_job_skill_network = params.get('save_two_mode_job_skill_network')
