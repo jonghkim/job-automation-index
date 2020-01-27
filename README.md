@@ -9,32 +9,32 @@ Anxiety about automation is prevalent in this era of rapid technological advance
     - Jongho Kim, College of Business, Korea Advanced Institute of Science and Technology [[Link](http://jonghkim.github.io/)]
 
 ## About the Project
-Given that technology directly affects the demand for specific skills, instead of acting on whole occupations, the impacts of automation technology vary widely according to task types. Thus, it is important to understand the types of tasks that are more, or less, susceptible to technological advances; as Peter Drucker stated, “proper measurement of information will lead to advances in effectiveness and performance of management.” To this end, we initiated this research project to empirically explore the evolution of task automation during 2008-2018.
+Given that technology directly affects the demand for specific skills, instead of acting on whole occupations, the impacts of automation technology vary widely according to task types. Thus, it is important to understand the types of tasks that are more, or less, susceptible to technological advances; as Peter Drucker stated, “proper measurement of information will lead to advances in effectiveness and performance of management.” To this end, we initiated this research project to empirically explore the evolution of task automation during 2008-2019.
 
 For a data-driven exploration of the race between human tasks (man) and automation technology (machine), we introduce a network-based methodology that reveals the latent task types across occupations. We then measure the task-level degree of automation and evaluate task complementarity, or substitutability, with the demands for occupations in which such a task is performed. As a result, we classify the revealed task types into distinct categories according to their relations to automation technology and labor demands in the 21st century. 
 
 ![task_taxanomy](img/task_taxanomy_2019.jpg)
 
-- **Race with the Machine**: Tasks that have experienced in the increase in degree of automation but complemented labor demands during 2008-2018
-- **Race against the Machine**: Tasks that have experienced in the increase in degree of automation and substituted labor demands during 2008-2018
-- **Race ahead of the Machine**: Tasks that have experienced in the decrease in degree of automation and complemented labor demands during 2008-2018
-- **Running a Different Race**: Tasks that are seemingly unrelated to labor demands during 2008-2018, regardless of changes in degree of automation
-- **Changing the Course of a Race**: Tasks that have experienced in the decrease in degree of automation but substituted labor demands during 2008-2018
+- **Race with the Machine**: Tasks that have experienced in the increase in degree of automation but complemented labor demands during 2008-2019
+- **Race against the Machine**: Tasks that have experienced in the increase in degree of automation and substituted labor demands during 2008-2019
+- **Race ahead of the Machine**: Tasks that have experienced in the decrease in degree of automation and complemented labor demands during 2008-2019
+- **Running a Different Race**: Tasks that are seemingly unrelated to labor demands during 2008-2019, regardless of changes in degree of automation
+- **Changing the Course of a Race**: Tasks that have experienced in the decrease in degree of automation but substituted labor demands during 2008-2019
 
 Based on our analysis, we provide this online system to encourage further research and policy discussions on the societal challenge of automation and the future of work. This tool provides the task-level susceptibility to automation across occupations and cities in the United States. The task-level decomposition of automation level will provide a more granular understanding of how technical advances and automation affect occupations and our communities.
 
 This system consists of five functions, the first three of which are at occupation level and the last two at city level:
 
 #### (1) [Job Automation Index](http://www.jobautomationindex.com/automation_index/)
-  - Visualize an occupation’s relations to automation during 2008-2018
+  - Visualize an occupation’s relations to automation during 2008-2019
 #### (2) [Task-Level Automation](http://www.jobautomationindex.com/task_level_automation/)
-  - Sort all occupations by task-level susceptibility to automation during 2008-2018
+  - Sort all occupations by task-level susceptibility to automation during 2008-2019
 #### (3) [Skill DNA of Jobs](http://www.jobautomationindex.com/skill_map/)
-  - Visualize an occupation’s skill requirements and skill-level susceptibility to automation during 2008-2018
+  - Visualize an occupation’s skill requirements and skill-level susceptibility to automation during 2008-2019
 #### (4) [Map of Automation (U.S. Cities)](http://www.jobautomationindex.com/map_automation/)
-  - Visualize a city’s relations to automation in the United States during 2008-2018
+  - Visualize a city’s relations to automation in the United States during 2008-2019
 #### (5) [City-Level Automation](http://www.jobautomationindex.com/city_level_automation/)
-  - Sort all U.S. cities by task-level susceptibility to automation during 2008-2018
+  - Sort all U.S. cities by task-level susceptibility to automation during 2008-2019
 
 The entire source code is publicly accessible to encourage reproducibility at [Github Link](https://github.com/jonghkim/job-automation-index). Please see our research paper for detailed descriptions behind the job automation index.
 
