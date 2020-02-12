@@ -13,7 +13,7 @@ Given that technology directly affects the demand for specific skills, instead o
 
 For a data-driven exploration of the race between human tasks (man) and automation technology (machine), we introduce a network-based methodology that reveals the latent task types across occupations. We then measure the task-level degree of automation and evaluate task complementarity, or substitutability, with the demands for occupations in which such a task is performed. As a result, we classify the revealed task types into distinct categories according to their relations to automation technology and labor demands in the 21st century. 
 
-![task_taxanomy](img/task_taxanomy_2019.jpg)
+![task_taxanomy](img/task_taxanomy.jpg)
 
 - **Race with the Machine**: Tasks that have experienced in the increase in degree of automation but complemented labor demands during 2008-2019
 - **Race against the Machine**: Tasks that have experienced in the increase in degree of automation and substituted labor demands during 2008-2019
