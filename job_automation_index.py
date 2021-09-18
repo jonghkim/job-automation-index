@@ -44,6 +44,15 @@ class JobAutomationIndex():
 
         # get skill dataframe
         self.skill_df = self.get_skill_df
+
+        """
+        target_year_col_list = ['Value'+target_year for target_year in self.target_year_list]
+        non_year_col_list = [col for col in self.skill_df.columns.tolist() if 'Value' not in col]
+
+        self.skill_df = self.skill_df[non_year_col_list+target_year_col_list]
+        self.skill_df.dropna(inplace=True)
+        """
+
         self.job_id = self.skill_df['Occupation'].unique().tolist()
 
         self.skill_id_name_dict = {}
@@ -77,6 +86,7 @@ class JobAutomationIndex():
 
         job_node = []
         job_skill_df = pd.DataFrame(columns = skill_df.columns)
+
         grouped_job =  skill_df.groupby('Occupation')
 
         for name, group in grouped_job:

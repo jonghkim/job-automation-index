@@ -12,7 +12,7 @@ def get_parameter():
         'education_data_nm':'Education_Data.xlsx',
 
         # target years
-        'target_year_list':[2008, 2020],
+        'target_year_list':['2009', '2020'],
 
         # degree of automation node
         'focal_node':"4.C.3.b.2", # "4.C.3.b.2", "2.D.1", "3.A.1", "3.A.2", "3.A.3"

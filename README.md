@@ -2,7 +2,7 @@
 Anxiety about automation is prevalent in this era of rapid technological advances especially in artificial intelligence, machine learning, and robotics. However, not all technical advances put occupations at risk, but rather they would substitute for some tasks and complement others. Thus, the question is that which tasks are more, or less, susceptible to automation in the 21st century, in terms of (i) technical advances and (ii) substitution and complementarity in the labor markets. To this end, we initiate this research project entitled "A Data-Driven Exploration of the Race between Man and Machine". As part of the project, the online system provides the task-level susceptibility to automation across occupations and cities in the United States.
 
 ## Link
-- Working Paper [[Paper]()]
+- Working Paper [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)]
 - Job Automation Index System [[Homepage](http://www.jobautomationindex.com/)]
 - Contact
     - Jiyong Park, Bryan School of Business and Economics, University of North Carolina at Greensboro [[Link](http://jiyong-park.github.io/)]
