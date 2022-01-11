@@ -48,4 +48,4 @@ The entire source code is publicly accessible to encourage reproducibility at [G
 - python job_automation_index.py
 
 ## Acknowledgement
-The following MIT-licensed code, created by Frank Elavsky, was used to create interactive visualization for the map of automation. [Link](https://github.com/nuitrcs/kellogg_insight_city_automation)
+The following MIT-licensed code, created by Frank Elavsky, was used to create interactive visualization for the map of automation ([Link](https://github.com/nuitrcs/kellogg_insight_city_automation)). 
