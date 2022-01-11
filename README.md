@@ -1,4 +1,4 @@
-# A Data-Driven Exploration of the Race between Human Labor and Machines
+# A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century
 
 ## About the Project
 Anxiety about automation is prevalent in this era of rapid technological advances, especially in artificial intelligence, machine learning, and robotics. Accordingly, how human labor competes, or cooperates, with the machine in performing a range of tasks (what we term the “**race between human labor and machines**”) has attracted a great deal of attention among the public, policymakers, and researchers.
