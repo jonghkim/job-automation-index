@@ -12,9 +12,9 @@ By representing occupational skill requirements as a network, we reveal 15 endog
 We then measure each task’s degree of automation in 2008 and 2020, respectively. Based on changes in degree of automation and employment share from 2008 to 2020, the task types are classified into five distinct categories, which illustrates the race between human labor and machines, as shown below. 
 - **Race with the Machine**: Tasks have experienced an increase in automation level, while the employment share for the tasks has increased from 2008 to 2020
 - **Race ahead of the Machine**: Tasks have experienced a decrease in automation level, while the employment share for the tasks has increased from 2008 to 2020
-- **Changing the course of the race**: Tasks have experienced a decrease in automation level, while they were already highly automated and the employment share for the tasks has decreased from 2008 to 2020
+- **Changing the Course of the Race**: Tasks were already highly automated in 2020, but have experienced a decrease in automation level, while the employment share for the tasks has decreased from 2008 to 2020
 - **Race against the Machine**: Tasks have experienced an increase in automation level, while the employment share for the tasks has decreased from 2008 to 2020
-- **Running a Different Race**: Tasks have experienced an increase in the degree of automation, while the employment share for the tasks has remained relatively stable during 2008–2020
+- **Running a Different Race**: Tasks have experienced an increase in automation level, while the employment share for the tasks has remained relatively stable during 2008–2020
 
 ![task_taxanomy](img/task_taxanomy_2020.png)
 <sub>Note that the point size is proportional to the degree of automation in 2020.</sub>
