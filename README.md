@@ -25,11 +25,11 @@ Based on our analysis, we develop a website for the automation indexes to facili
 #### (1) [Job Automation Index](http://www.jobautomationindex.com/automation_index/)
   - Demonstrate an occupation’s job automation index
 #### (2) [Skill Network](http://www.jobautomationindex.com/skill_network/)
-  - Visualize an occupation’s skill requirements and relations to automation
+  - Visualize an occupation’s skill requirements and degree of automation
 #### (3) [Task-Level Job Automation](http://www.jobautomationindex.com/job_automation/)
   - Sort all occupations by task-level job automation index
 #### (4) [Automation Map (U.S. Cities)](http://www.jobautomationindex.com/automation_map/)
-  - Visualize a city’s relations to automation in the United States
+  - Visualize a city’s degree of automation in the United States
 #### (5) [Task-Level City Automation](http://www.jobautomationindex.com/city_automation/)
   - Sort all U.S. cities by task-level city automation index
 
