@@ -18,8 +18,8 @@ We then measure each task’s degree of automation in 2008 and 2020, respectivel
 
 ![task_taxanomy](img/task_taxanomy_2020.png)
 <sub>Note that The point size is proportional to the degree of automation in 2020.</sub>
-<pre>
-</pre>
+<br>
+</br>
 
 Based on an occupation’s task content and a city’s occupational composition, we construct a task-level job automation index for representative occupations and a task-level city automation index for U.S. cities. The proposed automation indexes are found to be significantly correlated with occupational characteristics (e.g., suitability for machine learning, telework and offshoring) and regional characteristics for innovation capacity. The findings highlight that task-level automation indexes provide a granular understanding of how automation affects occupations and communities.
 
