@@ -41,8 +41,8 @@ The entire source code is publicly accessible to encourage reproducibility at [G
 - Background Paper (to appear in Communications of the ACM) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)]
 - Website for the Job Automation Index [[Homepage](http://www.jobautomationindex.com/)]
 - Contact
-    - Jiyong Park, Bryan School of Business and Economics, University of North Carolina at Greensboro [[jiyong.park@uncg.edu](mailto: jiyong.park@uncg.edu)]
-    - Jongho Kim, Samuel Curtis Johnson Graduate School of Management, Cornell University [[jk2352@cornell.edu](mailto: jk2352@cornell.edu)]
+    - Jiyong Park, Bryan School of Business and Economics, University of North Carolina at Greensboro [jiyong.park@uncg.edu](mailto: jiyong.park@uncg.edu)
+    - Jongho Kim, Samuel Curtis Johnson Graduate School of Management, Cornell University [jk2352@cornell.edu](mailto: jk2352@cornell.edu)
 
 ## Usage of Code
 - Python 2.7
