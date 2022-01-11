@@ -17,7 +17,7 @@ We then measure each task’s degree of automation in 2008 and 2020, respectivel
 - **Running a Different Race**: Tasks have experienced an increase in the degree of automation, while the employment share for the tasks has remained relatively stable during 2008–2020
 
 ![task_taxanomy](img/task_taxanomy_2020.png)
-<sub>Note that The point size is proportional to the degree of automation in 2020.</sub>
+<sub>Note that the point size is proportional to the degree of automation in 2020.</sub>
 <br>
 </br>
 
