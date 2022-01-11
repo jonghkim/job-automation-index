@@ -23,8 +23,7 @@ We then measure each task’s degree of automation in 2008 and 2020, respectivel
 
 Based on an occupation’s task content and a city’s occupational composition, we construct a task-level job automation index for representative occupations and a task-level city automation index for U.S. cities. The proposed automation indexes are found to be significantly correlated with occupational characteristics (e.g., suitability for machine learning, telework and offshoring) and regional characteristics for innovation capacity. The findings highlight that task-level automation indexes provide a granular understanding of how automation affects occupations and communities.
 
-Based on our analysis, we develop a website for the automation indexes to facilitate discussion and communications on the impacts of automation: [www.jobautomationindex.com](http://www.jobautomationindex.com). The website offers an interactive interface for the task-level degree of automation across occupations and U.S. cities for the following menus. The task-level decomposition of degree of automation will provide a more granular understanding of how technical advances and automation affect occupations and our communities.
-
+Based on our analysis, we develop a website for the automation indexes to facilitate discussion and communications on the impacts of automation: [www.jobautomationindex.com](http://www.jobautomationindex.com). The website offers an interactive interface for the task-level degree of automation across occupations and U.S. cities for the following menus:
 #### (1) [Job Automation Index](http://www.jobautomationindex.com/automation_index/)
   - Demonstrate an occupation’s job automation index
 #### (2) [Skill Network](http://www.jobautomationindex.com/skill_network/)
