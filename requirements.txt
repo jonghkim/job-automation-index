@@ -1,4 +1,4 @@
-scipy==0.17.0
+scipy==1.10.0
 networkx==1.11
 pandas==0.20.1
 numpy==1.11.0
